@@ -119,14 +119,5 @@ To use our software as a user, the software when first loaded places you into th
 <p>"p" - pause game </p>
 
 
-<!-- Developers -->
-## Developers
-<b>GROUP 42</p>
-<p>Mohammed Chams</p>
-<p>Yijie Wang</p>
-<p>Mirna Aziz</p>
-<p>Vincent Tsay</p>
-<p>Matthew Mockett</p>
-
 
 
